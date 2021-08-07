@@ -1,1 +1,3 @@
-aqerff
+git remote add origin https://github.com/abhiteja059/sfdx-project.git
+git branch -M main
+git push -u origin main
